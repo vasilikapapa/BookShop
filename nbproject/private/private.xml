@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/business/User.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/Servlet/CartServlet.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/index.jsp</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/data/UserDB.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/business/LineItem.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/Servlet/ProductServlet.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/data/ConnectionPool.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/thanks.jsp</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/data/ProductDB.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/business/Cart.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/data/DBUtil.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/Servlet/EmailListServlet.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/register.jsp</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/cart.jsp</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/src/java/murach/business/Product.java</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Vasil/OneDrive/Desktop/AdJava/hw5/web/checkout.jsp</file>
+        </group>
+    </open-files>
+</project-private>

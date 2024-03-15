@@ -1,0 +1,4 @@
+8601|https://pixy.org/src/138/thumbs350/1385046.jpg|The Cat in the Hat|8.799
+pf01|https://images.fineartamerica.com/images/artworkimages/medium/3/dr-seuss-the-lorax-book-cover-ilyane-arlaja-transparent.png| The Lorax |12.45
+pf02|https://2f96be1b505f7f7a63c3-837c961929b51c21ec10b9658b068d6c.ssl.cf2.rackcdn.com/products/063063.jpg | If I Ran the Circus | 6.75
+jr01|https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91Q9eneR7BL._AC_UF1000,1000_QL80_.jpg |How the Grinch Stole Christmas! |9.6
